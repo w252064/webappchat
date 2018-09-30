@@ -3,7 +3,7 @@ package com.bootdo.small;
 /**
  * 错误码基类
  * 定义公共的错误码，每个具体模块的错误码要继承该类，以方便封装返回数据时可以直接调用：
- * <code>JsonResult getFailResult(SmallErrorMsg errorMsg);</code>
+ * <code>JsonRegetFailResultsult (SmallErrorMsg errorMsg);</code>
  *
  * @author likaige
  * @date 2017-06-06
